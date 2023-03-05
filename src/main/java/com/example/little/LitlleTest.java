@@ -12,6 +12,6 @@ public class LitlleTest {
     @GetMapping
     public String helloWorld(){
         System.out.println("Hello World");
-        return "ok";
+        return "ok2";
     }
 }
